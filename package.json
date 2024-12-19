@@ -1,0 +1,12 @@
+{
+  "name": "markdown-to-excel",
+  "version": "1.0.0",
+  "description": "Convert markdown routes to Excel and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
